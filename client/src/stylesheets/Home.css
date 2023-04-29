@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Raleway&display=swap');
+*{
+    margin: 0em;
+    padding: 0em;
+    font-family:'Raleway' ;
+    align-items: center;
+}
+
+.mainContainer{
+    width: 100%;
+    padding: 2em;
+    align-content: center;
+}
+h1{
+    font-size: 8em;
+}
+h2{
+    font-size: 2em;
+    line-height: 2em;
+}

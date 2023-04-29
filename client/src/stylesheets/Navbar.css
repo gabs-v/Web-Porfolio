@@ -1,0 +1,29 @@
+*{
+    margin: 0em;
+    padding: 0em;
+    align-content: center;
+}
+.mainContainer{
+    display: flex;
+    justify-content: space-around;
+}
+h3{
+    width: 40%;
+    padding-top: 1em;
+    font-size: 1.5em;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+li{
+    text-decoration: none;
+}
+img{
+    height:25em;
+    border-radius: 45%;
+    padding-top: 1em;
+}
